@@ -1,4 +1,4 @@
-[![MasterHead]( https://i.redd.it/thj41ymmh0351.gif)]
+![MasterHead]( https://i.redd.it/thj41ymmh0351.gif)
 <h1 align="center">Hi 👋, I'm Tusar kumar Parida</h1>
 <h3 align="center">A passionate CS Engineer from India</h3>
 - 🌱 I’m currently learning **Advance Java**
