@@ -37,4 +37,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusarxkumar&show_icons=true&locale=en&layout=compact" alt="tusarxkumar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusarxkumar&" alt="tusarxkumar" /></p>![image](https://github.com/tusarxkumar/tusarxkumar/assets/143640625/218aae23-0f5d-4522-b224-b65529777f90)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusarxkumar&" alt="tusarxkumar" /></p>
