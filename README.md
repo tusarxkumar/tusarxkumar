@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Tusar kumar Parida and I'm a Full-stack developer from Odisha</h2>
+<h1 align="center">Hi 👋! My name is Tusar kumar Parida and I'm a Full-stack developer from Odisha</h1>
 
 ###
 
