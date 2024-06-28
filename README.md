@@ -71,14 +71,8 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/tusarxkumar/count.svg?"  />
-</div>
-
-###
-
 <br clear="both">
+
+<img src="https://raw.githubusercontent.com/tusarxkumar/tusarxkumar/output/snake.svg" alt="Snake animation" />
 
 ###
